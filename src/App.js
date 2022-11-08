@@ -28,7 +28,7 @@ function App() {
               Reports</li>
           </ul>
           <div className="d-grid">
-            <button onClick={(e)=>e.preventDefault()} className="btn btn-primary text-uppercase">Button</button>
+            <button onClick={(e)=>e.preventDefault()} className="btn btn-primary text-uppercase">Button1</button>
           </div>
         </div>
       </div>
